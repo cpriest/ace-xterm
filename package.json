@@ -1,7 +1,7 @@
 {
 	"author":      "Clint Priest",
-	"name":			"ace-xterm-wc",
-	"version":     "1.0.0",
+	"name":        "ace-xterm-wc",
+	"version":		"1.0.1",
 	"description": "A Web Component Combining Ace Editor with an XTerm Terminal as the output target, allowing fiddling with javascript to Termnal output.",
 	"license":     "MIT",
 	"main":        "src/demo.html",
@@ -21,7 +21,7 @@
 		"fiddle",
 		"demo"
 	],
-	"bugs":            {
+	"bugs":        {
 		"url": "https://github.com/cpriest/ace-xterm/issues"
 	},
 	"homepage":			"https://github.com/cpriest/ace-xterm#readme",
