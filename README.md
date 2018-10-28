@@ -3,7 +3,7 @@ A Web Component Combining Ace Editor with an XTerm Terminal as the output target
 modern browser supporting web components, you may need to use a polyfill if you're targeting some
 browsers.
 
-Tested in Chrome 71+ & Firefox 64+.
+Tested in Chrome 71+ & Firefox 64+.  Demo for [micro-chalk](https://www.npmjs.com/package/micro-chalk).
 
 ![Ace Screenshot](res/Ace_Screenshot.png)
 
@@ -59,3 +59,7 @@ become the code shown in the ace editor upon initialization.
 ```
 
 See the [demo.html](src/demo.html) page for a complete example.
+
+---
+
+This was developed for use with gitbook documention of [micro-chalk](https://www.npmjs.com/package/micro-chalk).
