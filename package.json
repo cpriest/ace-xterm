@@ -1,15 +1,15 @@
 {
-	"author":			"Clint Priest",
-	"name":				"@wc/ace-xterm",
-	"version":         "1.0.0",
-	"description":     "A Web Component Combining Ace Editor with an XTerm Terminal as the output target, allowing fiddling with javascript to Termnal output.",
-	"license":			"MIT",
-	"main":            "src/demo.html",
-	"repository":      {
+	"author":      "Clint Priest",
+	"name":			"ace-xterm-wc",
+	"version":     "1.0.0",
+	"description": "A Web Component Combining Ace Editor with an XTerm Terminal as the output target, allowing fiddling with javascript to Termnal output.",
+	"license":     "MIT",
+	"main":        "src/demo.html",
+	"repository":  {
 		"type": "git",
 		"url":	"git+https://github.com/cpriest/ace-xterm.git"
 	},
-	"keywords":        [
+	"keywords":    [
 		"ace",
 		"xterm",
 		"webcomponent",
